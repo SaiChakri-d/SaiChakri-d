@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaiChakri-d
 - 👀 I’m interested in programming, developing websites and apps.
-- 🌱 I’m currently learning full stack developement {MERN}.
+- 🌱 I’m currently learning full stack development {MERN}.
 - 💞️ I’m looking to collaborate on FSD related projects, building websites, UI/UX and apps.
 - 📫 Reach me via - email: saichakri.d@gmail.com
 
