@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development<br>👯 I’m looking to collaborate on Full Stack related projects and OpenSource projects<br>💬 Ask me about anything related to MERN stack, Technology and Gadgets<br>📫 How to reach me via saichakri.d@gmail.com
+🔭 I’m currently working on Full Stack Development<br>👯 I’m looking to collaborate on Full Stack related projects and OpenSource projects<br>💬 Ask me about anything related to MERN stack, Technology and Gadgets<br>📫 Reach me via <a href = "mailto: saichakri.d@gmail.com">Email</a>
 
 
 ## 🌐 Socials:
