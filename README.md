@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development<br>👯 I’m looking to collaborate on Full Stack related projects and Open Source projects<br>💬 Ask me about anything related to MERN stack, Technology and Gadgets<br>📫 Reach me via <a href="mailto:saichakri.d@gmail.com" >Email</a><br>📁 And Please Checkout My <a href="https://saichakri-d-portfolio.netlify.app/" onclick="window.open(this.href,'_blank');return false;" >Portfolio</a>
+🔭 I’m currently working on Full Stack Development<br>👯 I’m looking to collaborate on Full Stack related projects and Open Source projects<br>💬 Ask me about anything related to MERN stack, Technology and Gadgets<br>📫 Reach me via <a href="mailto:saichakri.d@gmail.com" >Email</a><br>📁 And Please Checkout My <a href="https://saichakri-d-portfolio.netlify.app/" target="_blank" rel="noreferrer noopener" >Portfolio</a>
 
 
 ## 🌐 Socials:
