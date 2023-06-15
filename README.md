@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Development<br>👯 I’m looking to collaborate on Full Stack related projects and Open Source projects<br>💬 Ask me about anything related to MERN stack, Technology and Gadgets<br>📫 Reach me via <a href="mailto:saichakri.d@gmail.com" >Email</a><br>📁 And Please Checkout My <a href="https://saichakri-d-portfolio.netlify.app/" target="_blank" >Portfolio</a>
 
-
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@dschakri117) 
 
@@ -12,12 +11,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaiChakri-d&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiChakri-d&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@dschakri117)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SaiChakri-d&icon=0&color=1)](https://visitcount.itsvg.in)
