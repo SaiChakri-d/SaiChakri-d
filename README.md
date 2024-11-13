@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development<br>👯 I’m looking to collaborate on Full Stack related projects and Open Source projects<br>💬 Ask me about anything related to MERN stack, Technology and Gadgets<br>📫 Reach me via <a href="mailto:saichakri.d@gmail.com" >Email</a><br>📁 And Please Checkout My <a href="https://saichakri-d-portfolio.netlify.app/" target="_blank" >Portfolio</a>
+🔭 I’m currently working on AWS Cloud Computing, Ex-Frontend Developer<br>👯 I’m looking to collaborate on Cloud Domain or React Native related projects and Open Source projects<br>💬 Ask me about anything related to AWS, Cloud Computing, React, React Native, Technology and Gadgets<br>📫 Reach me via <a href="mailto:saichakri.d@gmail.com" >Email</a><br>📁 And Please Checkout My <a href="https://saichakri-d-portfolio.netlify.app/" target="_blank" >Portfolio</a>
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@dschakri117) 
